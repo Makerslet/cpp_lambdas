@@ -18,5 +18,5 @@ int main(int, char const**)
     for(iter it = values.begin(); it != values.end(); ++it)
         foo_ptr(*it);
 
-	return 0;
+    return 0;
 }
